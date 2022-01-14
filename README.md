@@ -4,7 +4,7 @@
 1/13/2022
 
 ### Project Title
-The Bikesharing Project
+The Bikesharing Project 🚲
 
 ### Description
 The program runs the data from Chicago, NYC and Washington from a Bikeshare company. It calculates different statistics about bike usage.
